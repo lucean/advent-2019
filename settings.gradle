@@ -8,3 +8,9 @@
  */
 
 rootProject.name = 'advent-2019'
+include 'day1'
+include 'day2'
+include 'day3'
+include 'day4'
+include 'day5'
+
